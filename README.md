@@ -22,8 +22,5 @@ Fully offline use works only with the Ollama provider. Cloud providers need API 
 ## Models I used
 <un Ollama models name inga ezhudhu>
 
-## Screenshots
-<2-3 screenshots inga add pannu>
-
 ## Credits
 Original project: StackBlitz, Inc. and bolt.diy contributors.
